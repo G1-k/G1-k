@@ -15,7 +15,26 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Jeevan K | 💻 Robotics | 🛸 India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+</p>
 
+ - 🥀 Learning Swift & Objective_C
+ 
+ - <i>with Javascript, Typescript, React and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ 
+ - I do fullstack and much of every thing :heart:
+ 
+ - All About living life at its best.
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ 
 
 
 
