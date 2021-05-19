@@ -30,6 +30,10 @@
  - I build and code things :heart:
  
  - 💬 Connect? lets get social [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/)
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> EAT | SLEEP | RACE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
  
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
