@@ -12,13 +12,13 @@
 
 
 <div align="center">
-<h3> Jeevan K | 💻 Robotics | 🛸 India </h3>
+<h3> Jeevan K | 💻 Software | 🛸 India </h3>
 </div>
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/G1-k/G1-k/blob/main/src/programming.gif?raw=true" />
 <p align="center">
-  <h3> I'm a Robotics/AI enthusiast currently Exploring & Learning.</h3>
+  <h3> I'm a Robotics Software/AI enthusiast currently Exploring & Learning.</h3>
 </p>
 
  - 🥀 Learning C
