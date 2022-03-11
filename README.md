@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<h3> Jeevan K | 💻 Software | 🛸 India </h3>
+<h3> Jeevan K | 💻 Software | ✨ India </h3>
 </div>
 
 <br />
