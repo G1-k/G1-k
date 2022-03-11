@@ -7,7 +7,7 @@
 <a href="https://"><img height="30" src="https://github.com/G1-k/G1-k/blob/main/src/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/"><img height="30" src="https://github.com/G1-k/G1-k/blob/main/src/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/"><img height="30" src="https://github.com/G1-k/G1-k/blob/main/src/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/"><img height="30" src="https://github.com/G1-k/G1-k/blob/main/src/coffee.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.coffee.com/"><img height="30" src="https://github.com/G1-k/G1-k/blob/main/src/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
