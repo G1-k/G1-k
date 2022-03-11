@@ -35,9 +35,17 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> EAT - SLEEP - RACE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
+
+<!-- Github Stats -->
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=G1-k&&show_icons=true&theme=radical"/>
+
+<a href="https://github.com/G1-k">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1-k&hide=html,css&theme=radical" />
+</a>
+
+
+<a href="https://github.com/G1-k"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=G1-k&&show_icons=true&theme=radical/>
   </a>
 
 </p>
