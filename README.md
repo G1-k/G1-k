@@ -44,9 +44,10 @@
 </a>
 
 
-## <a href="https://github.com/G1-k"> 
-##   <img  align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=G1-k&&show_icons=true&theme=radical"/>
-## </a>
+<!-- <a href="https://github.com/G1-k"> 
+     <img  align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=G1-k&&show_icons=true&theme=radical"/>
+    </a>
+-->
 
 </p>
 
