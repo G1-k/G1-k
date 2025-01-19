@@ -12,22 +12,22 @@
 
 
 <div align="center">
-<h3> Jeevan K | 💻 Software | ✨ India </h3>
+<h3> Jeevan K | 💻 Software | 🤖 Robotics </h3>
 </div>
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/G1-k/G1-k/blob/main/src/programming.gif?raw=true" />
 <p align="center">
-  <h3> I'm a Tech enthusiast currently Exploring & Learning.</h3>
+  <h3> I'm a tech enthusiast, currently exploring & learning new things.</h3>
 </p>
 
- - 🥀 Learning C
+ - 🥀 Learning new algorithms
    
  - 🔭 Tesla FanBoi
 
  - 🛸 Into Flying Things 
  
- - I build and code things :heart:
+ - I :heart: to integrate hardware and software
  
  - 💬 Connect? lets get social [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/jeevan-k-6aa7a616b/)
 
